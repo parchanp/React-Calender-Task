@@ -1,0 +1,25 @@
+.rbc-day-bg {
+   background-color: rgb(198, 206, 194);
+}
+.rbc-toolbar-label{
+   background-color: rgb(221, 172, 179);
+   font-size:larger;
+   font-weight: bolder;
+   color: rgb(15, 14, 14);
+}
+.rbc-btn-group{
+   background-color: rgb(238, 226, 238);
+}
+.rbc-header{
+   background-color: coral;
+}
+.add-holiday{
+   display:inline-flex;
+   flex-direction: column;
+   }
+
+   .heading{
+      border: 2px solid rgb(18, 18, 20);
+      background-color: aqua;
+    
+   }
